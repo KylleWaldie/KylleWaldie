@@ -41,4 +41,4 @@ Profficient in C++, Python, C#
 - [Time Tracking Widget App](https://github.com/KylleWaldie/DaysTillApp)
 - [Basic E-Commerce Website](https://github.com/KylleWaldie/CSCI-210-Website)
 ## Contact Me
-[email](kwaldie@mtech.edu)
+kwaldie@mtech.edu
