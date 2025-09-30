@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/466973910_8699491036793203_4852094781781652840_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=HyIR0nULKSUQ7kNvwHCsYhr&_nc_oc=Adn5_aHulVgYf-uqf7Y6rDbInoM5FheJ9EpaoS30fvewgKnK6a4MobCFvwU5P90l-L8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=3rH-N0JXqtds7NcU98AY_A&oh=00_AfYbwvih61TSRgjeB0TqhOGAkBq70M1syuUOqjQpKkR7Sg&oe=68E1B87B" alt="alt text" width="300"/>
-
+https://github.com/KylleWaldie/CSCI-210-Website
+  <img src="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/466973910_8699491036793203_4852094781781652840_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=HyIR0nULKSUQ7kNvwHCsYhr&_nc_oc=Adn5_aHulVgYf-uqf7Y6rDbInoM5FheJ9EpaoS30fvewgKnK6a4MobCFvwU5P90l-L8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=3rH-N0JXqtds7NcU98AY_A&oh=00_AfYbwvih61TSRgjeB0TqhOGAkBq70M1syuUOqjQpKkR7Sg&oe=68E1B87B" alt="alt text" width="300"/>
+</div>
 
 ## About Me
 My name is Kylle Waldie. I am a computer science senior at Mt Technological University. I enjoy coding and have a huge interest in machine learning and AI programming.
