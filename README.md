@@ -35,3 +35,10 @@ Profficient in C++, Python, C#
 - Fishing
 - Magic the Gathering
 - App Development
+
+## Personal Projects
+- [Maintenance Organizer](https://github.com/KylleWaldie/Maintenance-Organizer)
+- [Time Tracking Widget App](https://github.com/KylleWaldie/DaysTillApp)
+- [Basic E-Commerce Website](https://github.com/KylleWaldie/CSCI-210-Website)
+## Contact Me
+[email](kwaldie@mtech.edu)
