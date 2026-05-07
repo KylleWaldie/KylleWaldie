@@ -19,27 +19,26 @@ Here are some ideas to get you started:
 </div>
 
 ## About Me
-My name is Kylle Waldie. I am a computer science senior at Mt Technological University. I enjoy coding and have a huge interest in machine learning and AI programming.
+My name is Kylle Waldie. I am a computer science senior at Mt Technological University. I enjoy coding and have a huge interest in machine learning web development and app development.
 ## Education
 Bachelor of Science Computer Science, Montana Technological University. 2022 - 2026, Butte, MT
 
 ## Skills
-Profficient in C++, Python, C#
+- Profficient in C++, Python, C#
 - Kivy library
 - Git
 - Data Science Tools
 
 ## Interests
-- Flesh and blood Card Game
 - World of Warcraft
 - Machine Learning
-- Fishing
 - Magic the Gathering
 - App Development
 
 ## Personal Projects
+- [Machine Learning Pokemon Card Grader](https://github.com/KylleWaldie/MLPokemonGrading)
+- [Butte Strong Non Profit Website](https://github.com/KylleWaldie/ButteStrongWebsite)
+- [GradeScan App](https://github.com/KylleWaldie/GradeScan)
 - [Maintenance Organizer](https://github.com/KylleWaldie/Maintenance-Organizer)
-- [Time Tracking Widget App](https://github.com/KylleWaldie/DaysTillApp)
-- [Basic E-Commerce Website](https://github.com/KylleWaldie/CSCI-210-Website)
 ## Contact Me
 kwaldie@mtech.edu
