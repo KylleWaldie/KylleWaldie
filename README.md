@@ -25,6 +25,7 @@ Bachelor of Science Computer Science, Montana Technological University. 2022 - 2
 
 ## Skills
 - Profficient in C++, Python, C#
+- Proficient in HTML, PHP, CSS
 - Git
 - Data Science Tools
 
