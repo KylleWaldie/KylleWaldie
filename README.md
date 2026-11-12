@@ -32,7 +32,7 @@ Bachelor of Science Computer Science, Montana Technological University. 2022 - 2
 ## Interests
 - World of Warcraft
 - Machine Learning
-- Magic the Gathering
+- Grand Archive
 - App Development
 
 ## Personal Projects
